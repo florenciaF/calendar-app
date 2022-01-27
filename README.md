@@ -2,7 +2,7 @@
 
 Aplicación de calendario con MERN 
 
-Contenido:
+### Contenido 📋
 
 -Redux
 -CRUD
@@ -12,8 +12,10 @@ Contenido:
 -JWT
 -Heroku
 
+### Instalación 🔧
 
-Demo:
+### Demo 🔧
+
 Si quieres ver la demo de este proyecto desplegado, puedes visitar https://heroku-calendar-react.herokuapp.com/login
 
 
